@@ -38,8 +38,8 @@ assets:
   - {seq: 6, role: markers, filename: assets/KR3eb011_006.markers.yaml, hash: 'sha256:c4bd06f0249760024fa71cb84fcf5fb3447a9cb8e4e8de8f3fe6aa8d0c4bf702'}
   - {seq: 7, role: markers, filename: assets/KR3eb011_007.markers.yaml, hash: 'sha256:ea114a1a7aa3065a8a37bb0b07c0ae6c0c8dc49c00b71698b5643466189de04e'}
   - {seq: 8, role: markers, filename: assets/KR3eb011_008.markers.yaml, hash: 'sha256:eeea22771dc3da781bc6547c712697bf138238d34cec610d418dbb2ae3e9d9be'}
-  - {seq: 9, role: markers, filename: assets/KR3eb011_009.markers.yaml, hash: 'sha256:17c26a80b42e38edd101500f3197ac42ef1ea0dcfbd998fa65ffb7fa28ad6852'}
-  - {seq: 10, role: markers, filename: assets/KR3eb011_010.markers.yaml, hash: 'sha256:68fea28fb88d2133d7ad323f87f6c5f0982b2ea03fc53844841c98b0bb2e07cd'}
+  - {seq: 9, role: markers, filename: assets/KR3eb011_009.markers.yaml, hash: 'sha256:c3f04d51fca7b21db4cf385a7dff0bbd39b2577b7a13812be65a3076c981f0ce'}
+  - {seq: 10, role: markers, filename: assets/KR3eb011_010.markers.yaml, hash: 'sha256:b39b5a0e8d04f21eb609af835140db1e0b951d776b9415305541e7a19f611fca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1151,7 +1151,7 @@ table_of_contents:
   label: 上陽蹺陰蹺帶脈
   type: section
   level: 2
-hash: sha256:8a7b89d97f2bc6cd9ff12cf4f204bf3213f1692af77e31ba710f5fa25cdd2eee
+hash: sha256:f5be5c7b850842737e331218c083686c57d09b5a133330e15f692f5c19b7f29a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
