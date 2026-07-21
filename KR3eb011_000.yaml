@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eb011/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序脈理精微其體難辨弦緊浮芤展轉相類在心易了指下難明謂沉為伏則方治永乖以緩為遲則危殆立至況有數候俱見異病同脈者乎夫醫藥為用性命所繫和鵲至妙猶或加思仲景明審亦候形證一毫有疑則考校以求驗故傷寒有承氣之戒嘔噦發下焦之間而遺文遠旨代寡能用舊經祕述奧而不售遂令末學昧於原本斥茲偏見各逞己能致微痾成膏肓之變滯固絶振起之望良有以也今撰集岐伯以來逮於華他經論要決合為十卷百病根原各以類例相從聲色證候靡不該備其王阮傅戴吳葛呂張所傳異同咸悉載録誠能留心研窮究其微賾則可以比蹤古賢代無夭橫矣
   hash: sha256:8e9c8425e133664dc87d113d9edab57c28ca8af6625a320fae2bff9d739d1688
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eb011_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 脈經
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eb011.xml
-hash: sha256:b10a21bf7f1f198a6bba1fc6b2c991838e6bdab989b2133d45ffe3724a399b56
+hash: sha256:b876bb4fb6a501f2115f7bbd1bf569f49c8d8b9cde6f2613e092b6df7445e6d5
